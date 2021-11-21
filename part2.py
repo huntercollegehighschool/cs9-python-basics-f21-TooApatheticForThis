@@ -15,3 +15,4 @@ product = float(number) + float(number) + float(number) + float(number) + float(
 print("10 times your number is", product)
 sum = float(number) + float(number2)
 print("99 plus your number is", sum)
+print("Hello")
