@@ -9,7 +9,9 @@ number in the formatted sentence that's already there.
 
 '''
 
-#code starts here
+number2 = 99
 number = input("Enter a number: ")
-print("Ten times your number is", 10 * number)
-print("Ninety-nine more than your number is", 99 + number)
+product = float(number) + float(number) + float(number) + float(number) + float(number) + float(number) + float(number) + float(number) + float(number) + float(number)
+print("10 times your number is", product)
+sum = float(number) + float(number2)
+print("99 plus your number is", sum)
